@@ -1,0 +1,73 @@
+nav {
+    font-family: 'Pacifico';
+    font-size: 27px;    
+}
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background-color: #30d5c8;
+    padding: 15px 2%;
+}
+.features{
+    margin-right: 30px;
+}
+.pricing{
+    margin-right: 30px;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+.car-image{
+    width: 1920px;
+    height: 1080px;
+}
+.container{
+    text-align: center;
+}
+.cards{
+    margin: 0;
+    text-align: center;
+}
+col{
+    text-align: center;
+    margin: 0;
+}
+.col-contacts{
+    text-align: center;
+    text-decoration: none;
+}
+.featuresfont{
+    font-family: 'Pacifico';
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #32CD32;
+}
+.pricingfont{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Pacifico';
+    font-size: 30px;
+    background-color: #ecbcfd;
+}
+.box{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(48,213,200,1) 53%, rgba(0,255,204,1) 81%);
+}
+.col-contacts{
+    margin-top: 40px;
+}
+.price{
+    width: auto;
+    height: 720px;  
+    background-color: #ecbcfd;
+}
+.linkfonts{
+    color: black;
+    text-decoration: none;
+}
+.ff{
+    margin-top: 50px;
+    height: 500px;
+}
